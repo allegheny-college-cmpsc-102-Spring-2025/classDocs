@@ -86,7 +86,7 @@ The below reading list is strongly recommended to improve students build technic
 
 | Topic | Weeks | Due Dates |
 |-------|-------|-----------|
-| **Welcome and Syllabus** | Weeks 1 | [Survey](https://forms.gle/QivUgQLfjRALB1dm7) |
+| **Welcome and Syllabus** | Weeks 1 | [Survey](https://docs.google.com/forms/d/e/1FAIpQLSdtORuoLFMpMlURMY4LbZRkO2CSyV6mPfK_ciepETuHJZdjcw/viewform?usp=sharing) |
 | **The Math in Programming** | Weeks 2 | Assignment #1 due 1/24, MLK Day – no classes |
 | **Iteration and programming constructs** | Week 3 | Assignment #2 due 1/31 |
 | **Setting up and utilizing virtual programming environments** | Week 4 | Assignment #3 due 2/7 |
