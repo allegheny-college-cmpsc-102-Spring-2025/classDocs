@@ -1,3 +1,8 @@
-lessons/week02/sandbox
+# Ignore everything
+lessons/week02/sandbox/*
 lessons/week02/week02.pdf
 .DS_Store
+
+# Do not ignore specific files
+!lessons/week02/sandbox/data.txt
+!lessons/week02/sandbox/data_i.txt
