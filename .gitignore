@@ -2,6 +2,7 @@
 lessons/week02/sandbox/*
 lessons/week02/week02.pdf
 .DS_Store
+**/.DS_Store
 
 # Do not ignore specific files
 !lessons/week02/sandbox/data.txt
