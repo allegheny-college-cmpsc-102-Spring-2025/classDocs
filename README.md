@@ -93,8 +93,8 @@ The below reading list is strongly recommended to improve students build technic
 | **Data Containers, Iterative Exponentiation** | Week 5 | Assignment #4 due 2/14 |
 | **MidTerm** | Week 6 | 2/19 |
 | **The fascinating world of monoids** | Week 7 | Assignment #5 due 2/21 |
-| **Sets and applications** | Week 8 | Assignment #6 due 2/28 |
-| **SPRING-BREAK** | Week 9 |
+| **SPRING-BREAK** | Week 8 |
+| **Sets and applications** | Week 9 | Assignment #6 due 2/28 |
 | **Set operations with probabilities** | Week 10 | Activity due at end of lab |
 | **Statistical explorations** | Week 11 | Assignment #7 due 3/28 |
 | **Describing data with fundamental statistics: Quantiles and Correlation** | Week 12 | Assignment #8 due 4/4 |
